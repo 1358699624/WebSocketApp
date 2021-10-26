@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2858a343-d16d-49bc-9bcc-7000cf026878": {
+      "ProjectGuid": "2858a343-d16d-49bc-9bcc-7000cf026878",
+      "DisplayName": "WindowsFormsApp",
+      "ColorIndex": 0
+    },
+    "fcfecd74-6158-4d1f-bfd3-09d3b883b94d": {
+      "ProjectGuid": "fcfecd74-6158-4d1f-bfd3-09d3b883b94d",
+      "DisplayName": "SocketApp",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketApp", "SocketApp.csproj", "{FCFECD74-6158-4D1F-BFD3-09D3B883B94D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp", "..\WindowsFormsApp\WindowsFormsApp.csproj", "{2858A343-D16D-49BC-9BCC-7000CF026878}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCFECD74-6158-4D1F-BFD3-09D3B883B94D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCFECD74-6158-4D1F-BFD3-09D3B883B94D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCFECD74-6158-4D1F-BFD3-09D3B883B94D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCFECD74-6158-4D1F-BFD3-09D3B883B94D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2858A343-D16D-49BC-9BCC-7000CF026878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2858A343-D16D-49BC-9BCC-7000CF026878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2858A343-D16D-49BC-9BCC-7000CF026878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2858A343-D16D-49BC-9BCC-7000CF026878}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60467C62-4D27-4C46-B148-6B2AEBE884BC}
+	EndGlobalSection
+EndGlobal
